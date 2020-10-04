@@ -1,2 +1,2 @@
 # SKM-computer-network
-A computer network project for SKM (4th term)
+A project for Computer Networks subject (SKM, 4th term)
